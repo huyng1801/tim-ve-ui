@@ -1,11 +1,11 @@
 {
-    "name": "tim_ve_ui",
-    "short_name": "tim_ve_ui",
+    "name": "Easy Room",
+    "short_name": "Easy Room",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Easy Room Rental Demo UI",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

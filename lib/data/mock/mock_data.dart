@@ -305,7 +305,7 @@ abstract final class MockData {
     ),
     ChatThread(
       id: 'c3',
-      name: 'Hỗ trợ Smart Room',
+      name: 'Hỗ trợ Easy Room',
       avatarUrl: 'https://i.pravatar.cc/150?u=support',
       lastMessage: 'Chúng tôi luôn sẵn sàng hỗ trợ bạn 24/7.',
       time: '3 ngày trước',

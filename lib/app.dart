@@ -7,8 +7,8 @@ import 'package:tim_ve_ui/providers/auth_provider.dart';
 import 'package:tim_ve_ui/providers/favorites_provider.dart';
 import 'package:tim_ve_ui/providers/rooms_provider.dart';
 
-class SmartRoomApp extends StatelessWidget {
-  SmartRoomApp({super.key});
+class EasyRoomApp extends StatelessWidget {
+  EasyRoomApp({super.key});
 
   final _authProvider = AuthProvider();
 
@@ -21,7 +21,7 @@ class SmartRoomApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => RoomsProvider()),
       ],
       child: MaterialApp.router(
-        title: 'Smart Room',
+        title: 'Easy Room',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.light,
         routerConfig: createAppRouter(_authProvider),

@@ -1,4 +1,4 @@
-# Smart Room Rental Demo UI
+# Easy Room Rental Demo UI
 
 Demo Flutter app thuê phòng với dữ liệu giả, không cần backend.
 
@@ -20,7 +20,7 @@ flutter run -d chrome
 
 Thông tin đăng nhập đã được điền sẵn trên màn hình Login:
 
-- **Email:** `demo@smartroom.app`
+- **Email:** `demo@easyroom.app`
 - **Mật khẩu:** `123456`
 
 Bấm **Đăng nhập** hoặc **Continue with Google** để vào app ngay.
